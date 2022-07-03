@@ -12,7 +12,6 @@ const Projects = () => {
     const [open, setOpen] = useState(false);
     const handleOpen = () => setOpen(true);
     const [index, setIndex] = useState(0)
-    console.log(open)
 
     return (
         <Grid container sx={{alignContent: 'center'}}>

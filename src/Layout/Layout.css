@@ -10,3 +10,7 @@ body {
 .Mui-selected {
     color: #870000 !important;
 }
+
+.MuiToolbar-root {
+    min-height: 0px !important;
+}

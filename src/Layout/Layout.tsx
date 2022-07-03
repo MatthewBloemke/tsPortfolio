@@ -4,6 +4,7 @@ import { useTheme } from '@mui/material/styles';
 import { Link } from 'react-router-dom'
 import AppRoutes from "./AppRoutes";
 import BottomNav from "../Utils/BottomNav";
+import Links from "../Utils/Links";
 
 const Layout = () => {
     const theme = useTheme()
@@ -25,6 +26,7 @@ const Layout = () => {
                     }
                 </Toolbar>
             </AppBar>
+            <Links isMobile={smallScreen}/>
             <AppRoutes/>
             {smallScreen ? 
                 <BottomNav/>

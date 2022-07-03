@@ -27,9 +27,8 @@ const AboutMe = () => {
                             <br/>
                             <Typography variant='body1' component='div'>
                                 When I am not coding, I enjoy spending time with my wife, dog, and friends. 
-                                I like to get out in nature and explore while hiking. I also enjoy gaming, 
-                                playing games like League of Legends or Rust. My favorite sport is Hockey, 
-                                and when Covid settles down, I will join an adult league. My favorite hockey team 
+                                I like to get out in nature and explore while hiking. I enjoy gaming, hockey, 
+                                and many outdoor activities with my family. My favorite hockey team 
                                 is the Minnesota Wild!
                             </Typography>
                         </Card>                        

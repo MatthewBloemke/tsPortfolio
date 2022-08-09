@@ -42,7 +42,7 @@ const Projects = () => {
                         This App takes that info, and takes the computer's local time, (as most people set the in game time to match their local time)
                         and displays only the bugs and fish that can be caught at that time.
                     </Typography>
-                    <Typography variant="body1" component="div" sx={{mb: '5px'}}>Link: <a rel="noopener noreferrer" target="_blank" href="https://animal-crossing-wtc-git-main-matthewbloemke.vercel.app/dashboard">Animal Crossing: WTC</a></Typography>
+                    <Typography variant="body1" component="div" sx={{mb: '5px'}}>Link: <a rel="noopener noreferrer" target="_blank" href="https://animalcrossingwtc.com">Animal Crossing: WTC</a></Typography>
                     <Typography variant="body1" component="div" sx={{mb: '5px'}}>Link: <a rel="noopener noreferrer" target="_blank" href="https://github.com/MatthewBloemke/AnimalCrossingWTC">Animal Crossing WTC Repo</a></Typography>
                 </Box>
             </Grid>
